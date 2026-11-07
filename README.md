@@ -2,7 +2,7 @@
 
 **Electrical & Electronics Engineering | Data Analytics | Automation | Project Management**
 
-I'm an Electrical and Electronics Engineering graduate from **Universidad Nacional Autónoma de México (UNAM)**, developing practical skills across engineering, software, data analysis and process improvement.
+I have completed my Electrical and Electronics Engineering coursework at **Universidad Nacional Autónoma de México (UNAM)** and am developing practical skills across engineering, software, data analysis and process improvement.
 
 ## Areas of interest
 
